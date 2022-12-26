@@ -10,7 +10,7 @@ import java.util.Scanner;
 public class AttackerA1 extends Attack {
     public AttackerA1() {
         this.name = "Пряма атака";
-        this.shortDesc = "Атакує 1 противника на 100% від своєї атаки";
+        this.shortDesc = "Атакує 1 противника на 100% від своєї атаки"; // gfgfgfg
     }
 
     @Override
